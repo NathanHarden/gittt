@@ -5,9 +5,9 @@ import (
 	"gittt"
 )
 func main(){
-	a:=80
+	a:=122
 	fmt.Printf("%d\n",a)
-	b:=27
+	b:=58
 	c:=41
 	fmt.Printf("%d\n",gittt.Sum(gittt.Sum(c,b),a))
 }
